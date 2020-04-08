@@ -7,6 +7,11 @@
 ### Lista
 Se agrega una lista
 
+- 1
+- 2
+- 3
+- 4
+
 <ol>
 <li>Bird</li>
 <li>McHale</li>
