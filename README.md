@@ -3,3 +3,12 @@
 
 ## Subtitulo Markdown
 **esto** es una bajada
+
+### Lista
+Se agrega una lista
+
+<ol>
+<li>Bird</li>
+<li>McHale</li>
+<li>Parish</li>
+</ol>
